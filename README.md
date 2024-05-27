@@ -1,5 +1,5 @@
 # Llama3 Email Writer: (About the project)
-This is a small project that write email based on user's description using LLama3 Instruct (Opensource model).
+This is a small project that writes email based on user's description using LLama3 Instruct (Opensource model).
 
 # More info about LLama3 Access
 To access LLama3 access it is requried to get Huggingface access token since the model "meta-llama/Meta-Llama-3-8B-Instruct" is made gated for access. 
